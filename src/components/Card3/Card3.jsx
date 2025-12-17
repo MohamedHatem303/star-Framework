@@ -1,5 +1,5 @@
 import React from 'react'
-import Port3 from '../../assets/img/Port3.png'
+import port3 from '../../assets/img/Port3.png'
 
 export default function Card3() {
   return (
@@ -20,14 +20,14 @@ export default function Card3() {
           <div className=" w-100 h-100 position-absolute z-2 opacity-75 rounded-3"style={{backgroundColor:'#29b197'}}></div>
         </div>
 
-        <img src={Port3} className="w-100 rounded-3" />
+        <img src={port3} className="w-100 rounded-3" />
       </div>
 
       <div className="modal fade" id="modal3" tabIndex={-1}>
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">
             <div className="modal-body p-0">
-              <img src={Port3} className="w-100" />
+              <img src={port3} className="w-100" />
             </div>
           </div>
         </div>
