@@ -1,5 +1,5 @@
 import React from 'react'
-import poert1 from '../../assets/img/Poert1.png'
+import poert1 from '../../assets/img/poert1.png'
 export default function Card1() {
   return (
     <>

@@ -1,5 +1,5 @@
 import React from 'react'
-import port3 from '../../assets/img/Port3.png'
+import port3 from '../../assets/img/port3.png'
 
 export default function Card3() {
   return (
