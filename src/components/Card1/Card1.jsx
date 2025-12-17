@@ -1,5 +1,5 @@
 import React from 'react'
-import Poert1 from '../../assets/img/Poert1.png'
+import poert1 from '../../assets/img/Poert1.png'
 export default function Card1() {
   return (
     <>
@@ -9,7 +9,7 @@ export default function Card1() {
                 <div className='position-absolute text-white z-3 top-50 start-50' style={{transform: "translate(-50%, -60%)",fontSize:'150px'}}>+</div>
                 <div className='w-100 h-100 position-absolute z-2 opacity-75 rounded-3'style={{backgroundColor:'#29b197'}}></div>
             </div>
-            <img src={Poert1} className='w-100 rounded-3'></img>
+            <img src={poert1} className='w-100 rounded-3'></img>
         </div>
         
         
@@ -17,7 +17,7 @@ export default function Card1() {
             <div className="modal-dialog modal-dialog-centered my-0 mx-auto">
                 <div className="modal-content">
                     <div className="modal-body p-0 ">
-                        <img src={Poert1} className='w-100'/>
+                        <img src={poert1} className='w-100'/>
                     </div>
                 </div>
             </div>
